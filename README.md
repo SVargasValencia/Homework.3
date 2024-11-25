@@ -1,2 +1,2 @@
-# Homework.3
-Este es un repositorio de la prueba del modulo 3 del prepcourse
+Este proyecto es parte de la prueba del L3 HTML del curo prep course henry
+
